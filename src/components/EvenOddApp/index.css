@@ -1,0 +1,42 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  border-radius: 15px;
+  padding: 50px;
+  text-align: center;
+}
+
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+}
+
+.paragraph {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.btn {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  width: 150px;
+  font-weight: 400;
+  font-size: 12px;
+  border: 0;
+}
+
+.disclaimer {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
